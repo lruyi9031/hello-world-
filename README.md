@@ -1,96 +1,29 @@
-# hello-world-
-橙色九宫格，倒圆角
-<!DOCTYPE html>
-<html>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
 <head>
-<style>
-#customers
-{
-font-family:"Trebuchet MS", Arial, Helvetica, sans-serif;
-width:100%;
-border-collapse:collapse;
-}
-#customers td, #customers th 
-{
-font-size:1em;
-border:1px solid #98bf21;
-padding:3px 7px 2px 7px;
-}
-#customers th 
-{
-font-size:1.1em;
-text-align:left;
-padding-top:5px;
-padding-bottom:4px;
-background-color:#A7C942;
-color:#ffffff;
-}
-#customers tr.alt td 
-{
-color:#000000;
-background-color:#EAF2D3;
-}
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title></title>
+<meta name="keywords" content="">
+<meta name="description" content="">
+
+<style type="text/css">
+ * { padding:0; margin:0;}
+ dl { width:153px; border-top:1px solid #ddd; border-left:1px solid #ddd;}
+ dl dd { list-style:none; width:50px; height:50px; float:left; border-right:1px solid #ddd; border-bottom:1px solid #ddd; float:left;}
 </style>
+<script type="text/javascript" src="js/jquery.min.js"></script>
 </head>
-
 <body>
-<table id="customers">
-<tr>
-  <th>Company</th>
-  <th>Contact</th>
-  <th>Country</th>
-</tr>
-<tr>
-<td>Alfreds Futterkiste</td>
-<td>Maria Anders</td>
-<td>Germany</td>
-</tr>
-<tr class="alt">
-<td>Berglunds snabbköp</td>
-<td>Christina Berglund</td>
-<td>Sweden</td>
-</tr>
-<tr>
-<td>Centro comercial Moctezuma</td>
-<td>Francisco Chang</td>
-<td>Mexico</td>
-</tr>
-<tr class="alt">
-<td>Ernst Handel</td>
-<td>Roland Mendel</td>
-<td>Austria</td>
-</tr>
-<tr>
-<td>Island Trading</td>
-<td>Helen Bennett</td>
-<td>UK</td>
-</tr>
-<tr class="alt">
-<td>Königlich Essen</td>
-<td>Philip Cramer</td>
-<td>Germany</td>
-</tr>
-<tr>
-<td>Laughing Bacchus Winecellars</td>
-<td>Yoshi Tannamuri</td>
-<td>Canada</td>
-</tr>
-<tr class="alt">
-<td>Magazzini Alimentari Riuniti</td>
-<td>Giovanni Rovelli</td>
-<td>Italy</td>
-</tr>
-<tr>
-<td>North/South</td>
-<td>Simon Crowther</td>
-<td>UK</td>
-</tr>
-<tr class="alt">
-<td>Paris spécialités</td>
-<td>Marie Bertrand</td>
-<td>France</td>
-</tr>
-</table>
+<dl>
+<dd></dd>
+<dd></dd>
+<dd></dd>
+<dd></dd>
+<dd></dd>
+<dd></dd>
+<dd></dd>
+<dd></dd>
+<dd></dd>
+</dl>
 </body>
-</html>
-
+</html> 
